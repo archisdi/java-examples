@@ -8,5 +8,10 @@ public class Variable {
 
         // Object
         String name = "archie";
+
+        // Operations
+        int expectedChild = 4 - 3;
+        double savings = 45000000 / expectedChild;
+        boolean isHappy = savings >= 50000;
     }
 }
